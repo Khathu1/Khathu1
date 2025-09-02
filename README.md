@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khathu1
 - 👀 I’m interested in AI programming
-- 🌱 I’m currently learning how to programe
+- 🌱 I’m currently learning how to programme
 - 💞️ I’m looking to collaborate on anything that includes coding or programming
 - 📫 How to reach me: contact ...
 - 😄 Pronouns: ...
